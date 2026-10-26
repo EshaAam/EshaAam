@@ -1,109 +1,42 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ekramul Alam Esham</h1>
+<h3 align="center">Software Engineer · Full-Stack Development</h3>
 
-# Hi, I'm Ekramul Esham 👋
-
-### Software Engineer · Full-Stack Development · Applied AI
-
-*Turning ideas into useful, reliable software.*
-
-<br/>
-
-<a href="mailto:ekramul.esham@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/EshaAam?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
-</div>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=480&lines=Next.js+%7C+FastAPI+%7C+Laravel;RAG+%26+LLM+evaluation;Turning+ideas+into+reliable+software" alt="Typing intro" />
+</p>
 
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="55%" valign="top">
 
-### A little about me
-
-- 🎓 Software Engineering graduate from **IUT, Bangladesh** 
-- 💻 Focused on building **full-stack web applications** and dependable backend systems
-- 🧠 Exploring **applied AI, LLM-powered products, and evaluation**
-- 🛠️ Enjoy turning complex requirements into clean, maintainable solutions
-- 🌱 Always learning, refining fundamentals, and building things that work beyond the happy path
+- 🎓 BSc in Software Engineering, **IUT**
+- 💼 Ex-SWE Intern at **Savoy IT** (Savoy), building ERP modules
+- 📄 Co-first author, **BenHalluEval** (AACL-IJCNLP 2026)
+- 🧠 Exploring **RAG, LLM evaluation & LLM-as-a-Judge**
+- 🚀 Open to **junior SWE & full-stack roles**
+- 📫 Reach me at **[ekramul.esham@gmail.com](mailto:ekramul.esham@gmail.com)**
 
 </td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://illustrations.popsy.co/gray/work-from-home.svg" alt="Developer working at a desk" width="100%"/>
-
+<td width="45%" align="center">
+<img src="https://illustrations.popsy.co/gray/work-from-home.svg" alt="Developer at work" width="300" />
 </td>
 </tr>
 </table>
 
----
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ekramul-esham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ekramulesham.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ekramul.esham@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## Tech Stack
+<h3>Featured Projects:</h3>
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php" alt="TypeScript, JavaScript, Python, Java, C++ and PHP"/>
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS and Tailwind CSS"/>
-
-<br/><br/>
-
-**Backend · Databases · Tools**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,postgres,mysql,prisma,redis,docker,git,github,postman,vercel" alt="Node.js, Express, FastAPI, Laravel, PostgreSQL, MySQL, Prisma, Redis, Docker, Git, GitHub, Postman and Vercel"/>
-
-</div>
-
----
-
-## Currently Exploring
-
-<div align="center">
-
-| Backend Engineering | Applied AI | Engineering Practice |
+| [🛒 VibeShopping](https://github.com/EshaAam/VibeShopping) | [🎯 InterviewIQ](https://github.com/EshaAam/InterviewIQ) | [🌏 Wander Bangladesh](https://github.com/EshaAam/wander-bangladesh) |
 |:---:|:---:|:---:|
-| API design, data integrity, resilient services | RAG, LLM evaluation, human-in-the-loop workflows | Testing, CI, Docker, maintainable architecture |
+| E-commerce with AI shopping assistant · [Live](https://vibe-shopping-one.vercel.app/) | AI interview platform with RAG grading · [Live](https://interview-iq-blush-phi.vercel.app/) | Immersive travel platform · [Live](https://wander-bangladesh.vercel.app/) |
 
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EshaAam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshaAam&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=EshaAam&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something meaningful.
-
-Open to **junior software engineering and full-stack opportunities**.
-
-[**Email me ↗**](mailto:ekramul.esham@gmail.com)
-
-<br/>
-
-<sub>Build with intent. Keep learning. Make it reliable.</sub>
-
-</div>
+<h3>Languages and Tools:</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php,react,nextjs,nodejs,express,fastapi,laravel,tailwind,postgres,mysql,mongodb,redis,prisma,docker,githubactions,git,vercel&perline=11" alt="Tech stack" />
+</p>
