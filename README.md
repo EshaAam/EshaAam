@@ -26,7 +26,7 @@
 
 ### A little about me
 
-- 🎓 Software Engineering graduate from **IUT, Bangladesh** — First Class
+- 🎓 Software Engineering graduate from **IUT, Bangladesh** 
 - 💻 Focused on building **full-stack web applications** and dependable backend systems
 - 🧠 Exploring **applied AI, LLM-powered products, and evaluation**
 - 🛠️ Enjoy turning complex requirements into clean, maintainable solutions
