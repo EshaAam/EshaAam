@@ -18,7 +18,7 @@
 
 </td>
 <td width="45%" align="center">
-<img src="https://illustrations.popsy.co/gray/work-from-home.svg" alt="Developer at work" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" width="300" />
 </td>
 </tr>
 </table>
