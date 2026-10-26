@@ -11,8 +11,9 @@
 
 - 🎓 BSc in Software Engineering, **IUT**
 - 💼 Ex-Software Developer Intern at **Data Ltd**, building ERP modules
-- 📄 Co-author of 2 papers on LLM evaluation:
-  - [**BenHalluEval**](https://arxiv.org/abs/2605.31483) · AACL-IJCNLP 2026
+- 📄 Published research on LLM evaluation:
+  - Co-first author, [**BenHalluEval**: Hallucination Evaluation for LLMs on Bengali](https://arxiv.org/abs/2605.31483) · AACL-IJCNLP 2026
+  - Co-author, [**Assessing LLMs for Medical QA**: Zero-Shot & LLM-as-a-Judge](https://arxiv.org/abs/2602.14564) · IEEE ICCIT 2025
 - 🧠 Exploring **RAG, LLM evaluation & LLM-as-a-Judge**
 - 🚀 Open to **junior SWE & full-stack roles**
 - 📫 Reach me at **[ekramul.esham@gmail.com](mailto:ekramul.esham@gmail.com)**
