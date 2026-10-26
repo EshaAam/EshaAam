@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <style>
+    .line { transform-origin: left center; animation: type 6s ease-in-out infinite; }
+    .l2 { animation-delay: .4s } .l3 { animation-delay: .8s } .l4 { animation-delay: 1.2s }
+    .l5 { animation-delay: 1.6s } .l6 { animation-delay: 2s } .l7 { animation-delay: 2.4s }
+    @keyframes type { 0% { transform: scaleX(0) } 15%,85% { transform: scaleX(1) } 100% { transform: scaleX(0) } }
+    .cursor { animation: blink 1s steps(1) infinite }
+    @keyframes blink { 50% { opacity: 0 } }
+    .float { animation: float 4s ease-in-out infinite }
+    .f2 { animation-delay: 1.3s } .f3 { animation-delay: 2.6s }
+    @keyframes float { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-8px) } }
+    .steam { animation: steam 2.5s ease-in-out infinite; opacity: 0 }
+    .s2 { animation-delay: .8s }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(4px) } 40% { opacity: .7 } 100% { opacity: 0; transform: translateY(-10px) } }
+  </style>
+
+  <!-- glow -->
+  <ellipse cx="200" cy="268" rx="150" ry="10" fill="#58A6FF" opacity=".15"/>
+
+  <!-- monitor -->
+  <rect x="80" y="50" width="240" height="160" rx="12" fill="#161B22" stroke="#30363D" stroke-width="3"/>
+  <rect x="80" y="50" width="240" height="24" rx="12" fill="#21262D"/>
+  <rect x="80" y="62" width="240" height="12" fill="#21262D"/>
+  <circle cx="96" cy="62" r="4" fill="#FF5F56"/>
+  <circle cx="110" cy="62" r="4" fill="#FFBD2E"/>
+  <circle cx="124" cy="62" r="4" fill="#27C93F"/>
+  <text x="200" y="66" font-family="monospace" font-size="9" fill="#8B949E" text-anchor="middle">app.tsx</text>
+
+  <!-- code -->
+  <g font-family="monospace" font-size="9" fill="#484F58">
+    <text x="92" y="94">1</text><text x="92" y="110">2</text><text x="92" y="126">3</text>
+    <text x="92" y="142">4</text><text x="92" y="158">5</text><text x="92" y="174">6</text><text x="92" y="190">7</text>
+  </g>
+  <rect class="line"    x="108" y="88"  width="70"  height="7" rx="3.5" fill="#FF7B72"/>
+  <rect class="line l2" x="120" y="104" width="110" height="7" rx="3.5" fill="#58A6FF"/>
+  <rect class="line l3" x="132" y="120" width="80"  height="7" rx="3.5" fill="#D2A8FF"/>
+  <rect class="line l4" x="132" y="136" width="140" height="7" rx="3.5" fill="#7EE787"/>
+  <rect class="line l5" x="132" y="152" width="60"  height="7" rx="3.5" fill="#FFA657"/>
+  <rect class="line l6" x="120" y="168" width="95"  height="7" rx="3.5" fill="#58A6FF"/>
+  <rect class="line l7" x="108" y="184" width="30"  height="7" rx="3.5" fill="#FF7B72"/>
+  <rect class="cursor" x="142" y="183" width="2" height="10" fill="#E6EDF3"/>
+
+  <!-- stand -->
+  <rect x="185" y="210" width="30" height="34" fill="#30363D"/>
+  <rect x="150" y="244" width="100" height="10" rx="5" fill="#30363D"/>
+
+  <!-- coffee mug -->
+  <rect x="290" y="226" width="26" height="28" rx="4" fill="#58A6FF"/>
+  <path d="M316 232 q12 0 12 9 q0 9 -12 9" fill="none" stroke="#58A6FF" stroke-width="4"/>
+  <path class="steam"    d="M297 220 q-4 -6 0 -12 q4 -6 0 -12" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/>
+  <path class="steam s2" d="M308 220 q-4 -6 0 -12 q4 -6 0 -12" fill="none" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- floating chips -->
+  <g class="float">
+    <rect x="20" y="70" width="46" height="26" rx="8" fill="#1F6FEB"/>
+    <text x="43" y="88" font-family="monospace" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">{ }</text>
+  </g>
+  <g class="float f2">
+    <rect x="336" y="40" width="44" height="26" rx="8" fill="#8957E5"/>
+    <text x="358" y="58" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">AI</text>
+  </g>
+  <g class="float f3">
+    <ellipse cx="44" cy="160" rx="18" ry="6" fill="#2EA043"/>
+    <rect x="26" y="160" width="36" height="26" fill="#2EA043"/>
+    <ellipse cx="44" cy="186" rx="18" ry="6" fill="#238636"/>
+    <ellipse cx="44" cy="160" rx="18" ry="6" fill="#3FB950"/>
+  </g>
+  <g class="float f2">
+    <rect x="340" y="140" width="40" height="40" rx="10" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <path d="M352 160 l6 6 l12 -12" fill="none" stroke="#3FB950" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
